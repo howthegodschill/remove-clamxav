@@ -7,7 +7,7 @@
 	Originally posted: November 17, 2020
 
 	Purpose: Run this script as part of a Jamf Pro policy to remove
-  the ClamXAV application and its components.
+  	the ClamXAV application and its components.
 	This was created based on ClamXAV version 2.1.3.
 
 	Except where otherwise noted, this work is licensed under
